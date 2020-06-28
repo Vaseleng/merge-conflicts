@@ -5,46 +5,49 @@ e# Associations
   role: autoelectrician
   year: 2019 &mdash; Present
   url: https://atlantm.by/
-  summary: Repair of electricians and diagnostics of Toyota/Lexus.
+  summary: Repair of electricians and diagnostics of Toyota/Lexus
 
 
-- organization: 
-  role: 
-  year: 2015 &mdash; Present
+- organization: UAB Autokurtas(Vilnius)
+  role: autoelectrician diagnostician
+  year: 2018 &mdash; 2019
   url: 
-  summary: 
+  summary: Repair of electricians and diagnostics of electronic systems of cars of brand MBenz trucks
 
 
-- organization: 
-  role: 
-  year: 2015 &mdash; Present
+- organization: DiagAuto(Helsinki)
+  role: autoelectrician diagnostician
+  year: 2017 &mdash; 2018
   url: 
-  summary: 
+  summary: Repair of electricians and diagnostics of electronic systems of cars of brand BMW,VAG,MBenz
   
   
-  - organization: 
+- organization: Autoidea BMW
+  role: autoelectrician diagnostician
+  year: 2013 &mdash; 2014
+  url: http://www.autoidea.by/
+  summary: Repair of electricians and diagnostics of electronic systems of cars of brand BMW and Mini
+  
+  
+- organization: Sole proprietor
   role: 
-  year: 2015 &mdash; Present
+  year: 2013 &mdash; Present
   url: 
-  summary: 
+  summary: Repair of electricians and diagnostics of electronic systems of heavy duty vehicles and trailers, 
+  passenger cars, excavators and bulldozers. Repairing and programming electronic control units. 
+  Development, installation and service system of transport monitoring (GPS).
+  Development and installation wiring for drifting cars
   
   
-  - organization: 
-  role: 
-  year: 2015 &mdash; Present
-  url: 
-  summary: 
+- organization: Renault Trucks
+  role: autoelectrician diagnostician
+  year: 2011 &mdash; 2013
+  url: http://vit-m.by/
+  summary: Repair of electricians and diagnostics of electronic systems of heavy duty vehicles and trailers
   
   
-  - organization: 
-  role: 
-  year: 2015 &mdash; Present
-  url: 
-  summary: 
-  
-  
-  - organization: 
-  role: 
-  year: 2015 &mdash; Present
-  url: 
-  summary: 
+- organization: Peleng
+  role: electronic engineer
+  year: 2006 &mdash; 2010
+  url: http://peleng.by/
+  summary: Development of high-technology optoelectronic equipment and systems
