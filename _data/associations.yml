@@ -1,53 +1,22 @@
 e# Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Atlant-M
+- organization: Self Employed
   role: autoelectrician
-  year: 2019 &mdash; Present
-  url: https://atlantm.by/
-  summary: Repair of electricians and diagnostics of Toyota/Lexus
-
-
-- organization: UAB Autokurtas(Vilnius)
-  role: autoelectrician diagnostician
-  year: 2018 &mdash; 2019
-  url: 
-  summary: Repair of electricians and diagnostics of electronic systems of cars of brand MBenz trucks
-
-
-- organization: DiagAuto(Helsinki)
-  role: autoelectrician diagnostician
-  year: 2017 &mdash; 2018
-  url: 
-  summary: Repair of electricians and diagnostics of electronic systems of cars of brand BMW,VAG,MBenz
-  
-  
-- organization: Autoidea BMW
-  role: autoelectrician diagnostician
-  year: 2013 &mdash; 2014
-  url: http://www.autoidea.by/
-  summary: Repair of electricians and diagnostics of electronic systems of cars of brand BMW and Mini
-  
-  
-- organization: Sole proprietor
-  role: 
   year: 2013 &mdash; Present
   url: 
-  summary: Repair of electricians and diagnostics of electronic systems of heavy duty vehicles and trailers, 
-  passenger cars, excavators and bulldozers. Repairing and programming electronic control units. 
-  Development, installation and service system of transport monitoring (GPS).
-  Development and installation wiring for drifting cars
-  
-  
-- organization: Renault Trucks
+  summary: Repair of electricians and diagnostics of cars for drag and drifting.
+           Development and installation wiring for drifting cars
+
+
+- organization: Self Employed
   role: autoelectrician diagnostician
-  year: 2011 &mdash; 2013
-  url: http://vit-m.by/
-  summary: Repair of electricians and diagnostics of electronic systems of heavy duty vehicles and trailers
-  
-  
-- organization: Peleng
-  role: electronic engineer
-  year: 2006 &mdash; 2010
-  url: http://peleng.by/
-  summary: Development of high-technology optoelectronic equipment and systems
+  year: 2013 &mdash; Present
+  url: 
+  summary: Development, installation and service system of transport monitoring (GPS) 
+
+- organization: Self Employed
+  role: autoelectrician diagnostician
+  year: 2013 &mdash; Present
+  url: 
+  summary: Repairing and programming electronic control units
