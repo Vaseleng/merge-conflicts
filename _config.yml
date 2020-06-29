@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Vasiliy Sergeev Resume"
+description: "A resume template for GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -11,13 +11,13 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 
-resume_name:                    "GitHub Teacher"
-resume_title:                   "Professional Trainer"
-resume_contact_email:           "services@github.com"
-resume_contact_telephone:       "1-(877)-448-4820"
-resume_contact_address:         "San Francisco, California"
-resume_header_contact_info: "San Francisco, California | 1-(877)-448-4820 | services@github.com"
-resume_header_intro: "<p>Charting the knowledge of the Internet, just like Galileo charted the stars.</p>"
+resume_name:                    "From Mechanic to Programmer: Fury Road"
+resume_title:                   "Professional Lover of Life"
+resume_contact_email:           "vaseleng@gmail.com"
+resume_contact_telephone:       "+375291472884"
+resume_contact_address:         "Minsk region"
+resume_header_contact_info: "Minsk region | +375291472884 | vaseleng@gmail.com"
+resume_header_intro: "<p>We can do it.</p>"
 
 
 # use "yes" to display the email contact button,
